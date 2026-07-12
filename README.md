@@ -18,7 +18,7 @@ Currently focused on strengthening <b>Data Structures & Algorithms</b>, advanced
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="portfolioboopathi-one.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
